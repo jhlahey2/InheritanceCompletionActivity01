@@ -1,6 +1,12 @@
 package com.lahey;
-
 import java.util.ArrayList;
+
+/**
+ * @author jack lahey
+ *
+ * Assignment
+ * Make the following application work. To check your result, print out all the object instances you created.
+ */
 
 public class Main {
 
